@@ -1,0 +1,9 @@
+introduction
+installation of python 3
+our first program
+variable
+data types
+types of error caught at run time
+typecasting
+string concatenation
+input from users
